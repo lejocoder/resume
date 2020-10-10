@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.e0f88ad4.chunk.css",
+    "main.js": "/resume/static/js/main.2216984a.chunk.js",
+    "main.js.map": "/resume/static/js/main.2216984a.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.ac75657e.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.ac75657e.js.map",
+    "static/js/2.ad40e21d.chunk.js": "/resume/static/js/2.ad40e21d.chunk.js",
+    "static/js/2.ad40e21d.chunk.js.map": "/resume/static/js/2.ad40e21d.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.90967525bdc044ef8de2ed2b334b8f8f.js": "/resume/precache-manifest.90967525bdc044ef8de2ed2b334b8f8f.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/main.e0f88ad4.chunk.css.map": "/resume/static/css/main.e0f88ad4.chunk.css.map",
+    "static/js/2.ad40e21d.chunk.js.LICENSE.txt": "/resume/static/js/2.ad40e21d.chunk.js.LICENSE.txt",
+    "static/media/Appjam.svg": "/resume/static/media/Appjam.e1ff8839.svg",
+    "static/media/Aramark.svg": "/resume/static/media/Aramark.c4459884.svg",
+    "static/media/SouthlandRoofingLogo.svg": "/resume/static/media/SouthlandRoofingLogo.b20e6edf.svg",
+    "static/media/econ_logo.svg": "/resume/static/media/econ_logo.6e867ca6.svg",
+    "static/media/freshman_edge.png": "/resume/static/media/freshman_edge.ca40d30e.png",
+    "static/media/robocashLogo.svg": "/resume/static/media/robocashLogo.3b274a24.svg",
+    "static/media/solidstatenmr.svg": "/resume/static/media/solidstatenmr.036d4ece.svg",
+    "static/media/uci.svg": "/resume/static/media/uci.bdc3c0df.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac75657e.js",
+    "static/js/2.ad40e21d.chunk.js",
+    "static/css/main.e0f88ad4.chunk.css",
+    "static/js/main.2216984a.chunk.js"
+  ]
+}
